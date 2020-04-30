@@ -1,7 +1,7 @@
 # ArticulateML
 Creating a language model that can classify description of values similar to the games [Articulate](https://en.wikipedia.org/wiki/Articulate!) and [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)).
 
-## Documentation + Code
+## Report + Code
 
 Project report found [here](https://docs.google.com/document/d/1uMz5OCS82B4yffZ_M5-XBn2gryl69lvy_bWRA2IsXvY/edit?usp=sharing)
 
