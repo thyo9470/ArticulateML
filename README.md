@@ -1,7 +1,9 @@
 # ArticulateML
 Creating a language model that can classify description of values similar to the games [Articulate](https://en.wikipedia.org/wiki/Articulate!) and [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)).
 
-## Google Colab
+## Documentation + Code
+
+Project report found [here](https://docs.google.com/document/d/1uMz5OCS82B4yffZ_M5-XBn2gryl69lvy_bWRA2IsXvY/edit?usp=sharing)
 
 We used Google Colab for this project since it had more computational resources then either of us had. Here is the link to the project: [ArticulateML](https://colab.research.google.com/drive/1pWQIWqsjR4GMjE0Jv2kDTXpGPfuqDVz-)
 
